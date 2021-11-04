@@ -1,0 +1,30 @@
+p {
+    color: #333;
+}
+nav a:hover {
+    text-decoration: none;
+}
+nav a {
+    color: #ff6347;
+}
+h1 + p{
+    text-decoration: underline;
+}
+.am {
+    text-decoration: underline;
+}
+span {
+    font-style: italic;
+}
+footer ul {
+    display: default;
+}
+footer ul li:first-child{
+    list-style-type: none;
+}
+footer ul li:nth-child(3) {
+    font-weight: bold;
+}
+nav ul li{
+    display: inline;  
+}
